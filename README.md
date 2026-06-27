@@ -1,11 +1,14 @@
 ## 成果物とかスキルとかいろいろ
-### できること
+## できること
+### そこそこ触ったレベル
 Python  
-Typescript/Javascript  
+Javascript  
 Linux周り  
 ### お勉強中
-C(ロボコンで使うので)  
-ネットワークとか
+Typescript  
+C  
+ネットワークとか  
+回路基板設計  
 
 ## Web系
 Minecraftサーバーを遠隔で再起動するやつ。DiscordでSSO認証を通してます。FastAPI+React  
