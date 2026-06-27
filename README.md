@@ -1,4 +1,11 @@
 ## 成果物とかスキルとかいろいろ
+### できること
+Python  
+Typescript/Javascript  
+Linux周り  
+### お勉強中
+C(ロボコンで使うので)  
+ネットワークとか
 
 ## Web系
 Minecraftサーバーを遠隔で再起動するやつ。DiscordでSSO認証を通してます。FastAPI+React  
